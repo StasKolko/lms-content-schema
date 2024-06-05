@@ -1,0 +1,3 @@
+schemas/*.d.ts
+node_modules
+playground
